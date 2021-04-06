@@ -9,6 +9,5 @@ public class Parent {
     static {
         System.out.println("Parent 初始化了...");
     }
-
     public static int num = 10;
 }
